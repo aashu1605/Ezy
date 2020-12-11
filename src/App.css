@@ -1,0 +1,23 @@
+body{
+  background-color: #d9adad;
+}
+.navbar{
+  background-color: #ffc7c7;
+  margin: 30px 10px 20px 10px;
+  box-shadow: 10px 10px 5px 0px rgba(12,32,74,0.8);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(12,32,74,0.8);
+-moz-box-shadow: 10px 10px 5px 0px rgba(12,32,74,0.8);
+}
+.card{
+  margin:auto;
+  background-color:#ffe2e2;
+  width: 87rem;
+  margin:auto;
+  text-align: center;
+  box-shadow: 10px 10px 5px 0px rgba(12,32,74,0.8);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(12,32,74,0.8);
+-moz-box-shadow: 10px 10px 5px 0px rgba(12,32,74,0.8);
+}
+.card h3{
+  color:#4c4c4c;
+}
